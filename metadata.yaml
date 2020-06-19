@@ -1,0 +1,28 @@
+_repo: Sketches-in-Holland-and-Scandinavia_62403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hare, Augustus J. C. (Augustus John Cuthbert)
+    alias: Hare, Augustus John Cuthbert
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '2896'
+    url: http://www.gutenberg.org/2009/agents/2896
+    wikipedia: https://en.wikipedia.org/wiki/Augustus_Hare
+description: ''
+gutenberg_issued: '2020-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62403'
+  lccn: '04000670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Description and travel'
+- !lcc 'D'
+- !lcsh 'Scandinavia -- Description and travel'
+- GITenberg
+title: Sketches in Holland and Scandinavia
+url: http://www.gutenberg.org/ebooks/62403
